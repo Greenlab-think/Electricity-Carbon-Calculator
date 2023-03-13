@@ -106,10 +106,10 @@ Finally, the function updates the text format for the bar chart and displays the
 #### **Examples of Plotly outputs:**
 ##### For less than 3 days
 \
-![Alt text](/project/3_days_graph.png?raw=true "Less than 3 days plot")
+![Alt text](3_days_graph.png?raw=true "Less than 3 days plot")
 
 ##### For less than 7 days
 \
-![Alt text](/project/7_days_graph.png?raw=true "Less than 7 days plot")
+![Alt text](7_days_graph.png?raw=true "Less than 7 days plot")
 
 
