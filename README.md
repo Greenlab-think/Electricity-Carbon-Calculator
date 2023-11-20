@@ -5,7 +5,7 @@
 This simple project has been done for the [OpenCourseWare CS50P : Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/).
 The objective of this Electricity Carbon Calculator is to estimate the amount of CO2 emitted from a personal residence based on the electricity consumption.
 It provides this information for a maximum period of 7 days, either per hour (for periods less than 3 days) or per day (for periods less than 7 days).
-To estimate the CO2 emissions this script use the API from [éCO2mix](https://www.rte-france.com/eco2mix/les-emissions-de-co2-par-kwh-produit-en-france). The data is aggregated at a national level (France), so depending on your location, the data may be an approximation. The data is aggregated at a national level (France), so depending on your location, the data may be an approximation.
+To estimate the CO2 emissions this script use the API from [éCO2mix](https://www.rte-france.com/eco2mix/les-emissions-de-co2-par-kwh-produit-en-france). The data is aggregated at a national level (France), so depending on your location, the data may be an approximation.
 
 
 #### **Requirements**:
